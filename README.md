@@ -1,4 +1,4 @@
-![ci workflow](https://github.com/<fatboycries-lang>/<learn-cicd-starter>/actions/workflows/<ci.yml>/badge.svg)
+![ci workflow](https://github.com/fatboycries-lang/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
